@@ -14,5 +14,3 @@ I'm persuing B.Tech CSE. I love to write code and learn new technologies.
   <li>✉️ Reach me at: - <a href="mailto:sushant.dhiman9812@gmail.com">sushant.dhiman9812@gmail.com</a></li>
  </ul>
  
-### Languages I Use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant102004)](https://github.com/anuraghazra/github-readme-stats)
