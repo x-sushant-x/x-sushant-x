@@ -9,7 +9,7 @@ I'm persuing B.Tech CSE. I love to write code and learn new technologies.
 
 #### Talking About Personal Stuffs
 <ul>
-  <li>🧑‍💻 I'm currently workin on something cool.</li>
+  <li>🧑‍💻 I'm currently working on something cool.</li>
   <li>🗺️ I'm from India.</li>
   <li>✉️ Reach me at: - <a href="mailto:sushant.dhiman9812@gmail.com">sushant.dhiman9812@gmail.com</a></li>
  </ul>
