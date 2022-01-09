@@ -2,7 +2,7 @@
 
 ### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sushant102004.visitor-badge)
 
-I'm persuing B.Tech CSE. I love to write code and learn new technologies.
+I'm persuing B.Tech CSE. I love to code and learn new technologies.
 
 #### Talking About Personal Stuffs
 <ul>
