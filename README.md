@@ -1,7 +1,6 @@
 ## Hi there, I'm Sushant 👋
 
-### Glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sushant102004.visitor-badge)
-
+### Glad to see you here!
 I'm persuing B.Tech CSE. I love to code and learn new technologies.
 
 #### Talking About Personal Stuffs
