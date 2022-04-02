@@ -23,8 +23,5 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
 </p>
 
-#### My Contribution
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant102004&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-
 #### Contact Me
 <a href="mailto:sushant.dhiman9812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;<a href="https://instagram.com/sushant102004"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;<a href="https://www.linkedin.com/in/sushant-dhiman-4953761b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
