@@ -25,12 +25,16 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 <!--START_SECTION:waka-->
 
 ```text
-Dart         6 hrs 53 mins   █████████████████████░░░░   84.42 %
-JavaScript   1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+From: 29 November 2022 - To: 28 January 2023
+
+Total Time: 86 hrs 33 mins
+
+JavaScript   39 hrs 42 mins  >>>>>>>>>>>--------------   45.87 %
+Dart         23 hrs 32 mins  >>>>>>>------------------   27.19 %
+C++          5 hrs 50 mins   >>-----------------------   06.75 %
+Java         4 hrs 49 mins   >------------------------   05.57 %
+Go           3 hrs 46 mins   >------------------------   04.36 %
+CSS          3 hrs 16 mins   >------------------------   03.79 %
 ```
 
 <!--END_SECTION:waka-->
