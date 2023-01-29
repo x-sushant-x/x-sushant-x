@@ -1,5 +1,4 @@
 # Hi there, I'm Sushant 👋
-### Glad to see you here!
 I'm persuing B.Tech CSE. I love to code and learn new technologies.
 
 #### Talking About Personal Stuffs
@@ -22,11 +21,8 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-# Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Easily handle error in Node JS &amp; Express JS](https://medium.com/@CyberBoySushant/easily-handle-error-in-node-js-express-js-4a0b8a4277b4?source=rss-71676b52f09c------2)
-<!-- BLOG-POST-LIST:END -->
 
+#### 👨‍💻 Time Spent This Year
 <!--START_SECTION:waka-->
 
 ```text
@@ -41,6 +37,12 @@ CSS          3 hrs 16 mins   █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+#### 📔 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Easily handle error in Node JS &amp; Express JS](https://medium.com/@CyberBoySushant/easily-handle-error-in-node-js-express-js-4a0b8a4277b4?source=rss-71676b52f09c------2)
+<!-- BLOG-POST-LIST:END -->
+
 
 #### Contact Me
 <a href="mailto:sushant.dhiman9812@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
