@@ -26,14 +26,14 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 86 hrs 33 mins
+Total Time: 88 hrs 47 mins
 
-JavaScript   39 hrs 42 mins  ███████████▒░░░░░░░░░░░░░   45.87 %
-Dart         23 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-C++          5 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Java         4 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Go           3 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-CSS          3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JavaScript   40 hrs 5 mins   ███████████▒░░░░░░░░░░░░░   45.15 %
+Dart         25 hrs 20 mins  ███████░░░░░░░░░░░░░░░░░░   28.53 %
+C++          5 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Java         4 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Go           3 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+CSS          3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
