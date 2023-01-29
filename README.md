@@ -25,8 +25,6 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 28 January 2023
-
 Total Time: 86 hrs 33 mins
 
 JavaScript   39 hrs 42 mins  ███████████▒░░░░░░░░░░░░░   45.87 %
