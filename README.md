@@ -23,6 +23,16 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```text
+Dart         6 hrs 53 mins   █████████████████████░░░░   84.42 %
+JavaScript   1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Contact Me
