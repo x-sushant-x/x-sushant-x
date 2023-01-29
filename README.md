@@ -24,6 +24,7 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily handle error in Node JS &amp; Express JS](https://medium.com/@CyberBoySushant/easily-handle-error-in-node-js-express-js-4a0b8a4277b4?source=rss-71676b52f09c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
