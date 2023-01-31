@@ -40,6 +40,8 @@ CSS          3 hrs 16 mins   █░░░░░░░░░░░░░░░░
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NodeJS Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
+- [ExpressJS Tutorial: An Introduction to ExpressJS and Hello World App](https://codeforgeek.com/express-js-introduction/)
 - [Easily handle error in Node JS &amp; Express JS](https://medium.com/@CyberBoySushant/easily-handle-error-in-node-js-express-js-4a0b8a4277b4?source=rss-71676b52f09c------2)
 <!-- BLOG-POST-LIST:END -->
 
