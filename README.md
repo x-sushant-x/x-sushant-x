@@ -40,11 +40,11 @@ CSS          3 hrs 30 mins   ▒░░░░░░░░░░░░░░░░
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter App Bar: A Step-by-Step Guide](https://codeforgeek.com/flutter-appbar/)
 - [Flutter: Getting Started Guide 2023](https://codeforgeek.com/flutter-getting-started-guide/)
 - [jQuery Methods – load, get and post](https://codeforgeek.com/jquery-load-get-and-post-methods/)
 - [Dart: Getting Started Guide 2023](https://codeforgeek.com/dart-getting-started-guide/)
 - [NodeJS Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [ExpressJS Tutorial: An Introduction to ExpressJS and Hello World App](https://codeforgeek.com/express-js-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 
