@@ -1,3 +1,4 @@
+![Header](./github-header.png)
 # Hi there, I'm Sushant 👋
 I'm persuing B.Tech CSE. I love to code and learn new technologies.
 
@@ -7,6 +8,17 @@ I'm persuing B.Tech CSE. I love to code and learn new technologies.
   <li>🗺️ I'm from India.</li>
   <li>✉️ Reach me at: - <a href="mailto:sushant.dhiman9812@gmail.com">sushant.dhiman9812@gmail.com</a></li>
 </ul>
+
+#### 📱 Building: - [Cookie Byte Apps](https://play.google.com/store/apps/developer?id=Cookie+Byte+Apps)
+
+#### 🏆 Achievement
+<ol>
+  <li>SIH'22 Grand Finalist</li>
+  <li>Google's Compose Camp'22 Facilitator</li>
+  <li>Google Cloud Facilitator Ready</li>
+  <li>Microsoft AZ-900 Certified</li>
+  <li>App publisher @Goolge Play</li>
+</ol>
 
 #### Technical Stuffs
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
