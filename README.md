@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sushant102004/sushant102004/main/github-header.png)
 
-## Welcome to my profile 🤗
+# Welcome to my profile 🤗
 Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
 
 🚀 Visit my personal website [here](https://codewithsushant.me)
@@ -48,7 +48,6 @@ CSS           3 hrs 30 mins   ▒░░░░░░░░░░░░░░░�
 
 
 ![sushant102004's Stats](https://github-readme-stats.vercel.app/api?username=sushant102004&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
-![sushant102004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant102004&theme=dracula&hide_border=true)
 
 ### Features Projects
 <ul>
