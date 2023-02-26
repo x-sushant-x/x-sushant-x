@@ -1,30 +1,31 @@
-![Header](./github-header.png)
-# Hi there, I'm Sushant 👋
-I'm persuing B.Tech CSE. I love to code and learn new technologies.
+![Header](https://raw.githubusercontent.com/sushant102004/sushant102004/main/github-header.png)
 
-### Talking About Personal Stuffs
+## Welcome to my profile 🤗
+Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
+
+🚀 Visit my personal website [here](https://codewithsushant.me)
+
+### Talking about personal stuff
 <ul>
-  <li>🧑‍💻 I'm currently working on learning stuffs.</li>
-  <li>🗺️ I'm from India.</li>
-  <li>✉️ Reach me at: - <a href="mailto:sushant.dhiman9812@gmail.com">sushant.dhiman9812@gmail.com</a></li>
+<li>👨‍💻  I'm currently working on learning stuffs.</li>
+<li>🔭 I’m currently working on building <a href="https://play.google.com/store/apps/developer?id=Cookie+Byte+Apps" ><b>Cookie Byte Apps</b></a>.</li>
+<li>👯 I’m looking to collaborate on <b>Open-Source</b> JavaScript Projects.</li>
+<li>💬 Ask me about <b>Backend-Developement</b>.</li>
+<li>📝 My articles are available on <a href = "https://medium.com/@CyberBoySushant"><b>Medium</b></a> & <a href="https://codeforgeek.com/author/sushant/"><b>CodeForGeek</b></a>.</li>
+<li>📄 Get me resume on <a href="https://linkedin.com/in/sushant102004"><b>LinkedIn</b></a>.</li>
 </ul>
 
-#### 📱 Building: - [Cookie Byte Apps](https://play.google.com/store/apps/developer?id=Cookie+Byte+Apps)
-
-### 🏆 Achievement
-<ol>
-  <li>SIH'22 Grand Finalist</li>
-  <li>Google's Compose Camp'22 Facilitator</li>
-  <li>Google Cloud Facilitator Ready</li>
-  <li>Microsoft AZ-900 Certified</li>
-  <li>App publisher @Goolge Play</li>
-</ol>
+### 🏆  Achievement
+|    Month       |         Achievement                                         |
+|----------------|-------------------------------------------------------------|
+| December 2021  | Microsoft Azure AZ-900 Certified                            |
+| July 2022      | Google Cloud Facilitator Ready                              |
+| July 2022      | First Solution Challenge Participation                      |
+| August 2022    | SIH'22 Grand Finalist                                       |
+| September 2022 | Google's Compose Camp Facilitator                           |
+| February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sushant102004&theme=onedark)
-
-### Technical Stuffs
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongo,c,cpp,java,python,flutter,firebase,wordpress,googlecloud,azure)
-
 
 ### 👨‍💻 Time Spent This Year
 <!--START_SECTION:waka-->
@@ -41,6 +42,25 @@ CSS           3 hrs 30 mins   ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### Technical Stuffs
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongo,c,cpp,java,python,flutter,firebase,wordpress,googlecloud,azure)
+
+
+![sushant102004's Stats](https://github-readme-stats.vercel.app/api?username=sushant102004&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
+![sushant102004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant102004&theme=dracula&hide_border=true)
+
+### Features Projects
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
+<li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
+<li><a href="https://github.com/sushant102004/Secure-Auth-System"> Bring The Menu </a></li>
+<li><a href="https://github.com/sushant102004/Noise-Detection-System"> Library Noise Detection System</a></li>
+<li><a href="https://github.com/sushant102004/SafeLane">Safe Lane</a></li>
+<li><a href="https://github.com/sushant102004/Ranakshetram-Secure-Coding-Challange">Ranakshetram Secure Coding Challange</a></li>
+<li><a href="https://github.com/sushant102004/Google-Search-Resume">Google Search Resume </a></li>
+<li><a href="https://github.com/sushant102004/Blockchain-Python">Blockchain </a></li>
+</ul>
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
