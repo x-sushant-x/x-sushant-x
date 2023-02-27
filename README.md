@@ -46,9 +46,6 @@ CSS           3 hrs 30 mins   ▒░░░░░░░░░░░░░░░�
 ### Technical Stuffs
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongo,c,cpp,java,python,flutter,firebase,wordpress,googlecloud,azure)
 
-
-![sushant102004's Stats](https://github-readme-stats.vercel.app/api?username=sushant102004&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
-
 ### Features Projects
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
