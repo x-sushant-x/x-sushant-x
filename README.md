@@ -60,11 +60,11 @@ CSS           3 hrs 30 mins   ▒░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Widgets: Text, Button, Row &amp; Column](https://codeforgeek.com/flutter-widgets/)
 - [Flutter Dialogs: A Step-by-Step Guide](https://codeforgeek.com/flutter-dialogs/)
 - [Flutter App Bar: A Step-by-Step Guide](https://codeforgeek.com/flutter-appbar/)
 - [Flutter: Getting Started Guide 2023](https://codeforgeek.com/flutter-getting-started-guide/)
 - [jQuery Methods – load, get and post](https://codeforgeek.com/jquery-load-get-and-post-methods/)
-- [Dart: Getting Started Guide 2023](https://codeforgeek.com/dart-getting-started-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
