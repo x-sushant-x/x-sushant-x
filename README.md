@@ -46,7 +46,7 @@ CSS           3 hrs 30 mins   ▒░░░░░░░░░░░░░░░�
 ### Technical Stuffs
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongo,c,cpp,java,python,flutter,firebase,wordpress,googlecloud,azure)
 
-### Features Projects
+### Featured Projects
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
