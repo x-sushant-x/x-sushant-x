@@ -12,7 +12,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 <li>👯 I’m looking to collaborate on <b>Open-Source</b> JavaScript Projects.</li>
 <li>💬 Ask me about <b>Backend-Developement</b>.</li>
 <li>📝 My articles are available on <a href = "https://medium.com/@CyberBoySushant"><b>Medium</b></a> & <a href="https://codeforgeek.com/author/sushant/"><b>CodeForGeek</b></a>.</li>
-<li>📄 Get me resume on <a href="https://linkedin.com/in/sushant102004"><b>LinkedIn</b></a>.</li>
+<li>📄 Get my resume on <a href="https://linkedin.com/in/sushant102004"><b>LinkedIn</b></a>.</li>
 </ul>
 
 ### 🏆  Achievement
