@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sushant102004/sushant102004/main/github-header.png)
 
-# Welcome to my profile 🤗
+# Welcome  🤗
 Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
 
 🚀 Visit my personal website [here](https://codewithsushant.me)
@@ -23,6 +23,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 | July 2022      | First Solution Challenge Participation                      |
 | August 2022    | SIH'22 Grand Finalist                                       |
 | September 2022 | Google's Compose Camp Facilitator                           |
+| January  2023  | IIT-Madras Hackci-dents Top 8 Finalist                      |
 | February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sushant102004&theme=onedark)
