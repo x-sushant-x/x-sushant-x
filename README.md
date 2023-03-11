@@ -3,7 +3,11 @@
 # Welcome  🤗
 Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
 
+<br>
+
 🚀 Visit my personal website [here](https://codewithsushant.me)
+
+<br>
 
 ### Talking about personal stuff
 <ul>
@@ -15,6 +19,8 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 <li>📄 Get my resume on <a href="https://linkedin.com/in/sushant102004"><b>LinkedIn</b></a>.</li>
 </ul>
 
+<br>
+
 ### 🏆  Achievement
 |    Month       |         Achievement                                         |
 |----------------|-------------------------------------------------------------|
@@ -25,6 +31,9 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 | September 2022 | Google's Compose Camp Facilitator                           |
 | January  2023  | IIT-Madras Hackci-dents Top 8 Finalist                      |
 | February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
+
+
+<br>
 
 
 ### 👨‍💻 Time Spent This Year
@@ -43,8 +52,10 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<br>
+
+
 ### Technical Stuffs
-<!-- ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,mongo,c,cpp,java,python,flutter,firebase,wordpress,googlecloud,azure) -->
 #### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,6 +95,8 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
 ### Featured Projects
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
@@ -96,6 +109,9 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 <li><a href="https://github.com/sushant102004/Blockchain-Python">Blockchain </a></li>
 </ul>
 
+<br>
+
+
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Widgets: Text, Button, Row &amp; Column](https://codeforgeek.com/flutter-widgets/)
@@ -104,6 +120,9 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 - [Flutter: Getting Started Guide 2023](https://codeforgeek.com/flutter-getting-started-guide/)
 - [jQuery Methods – load, get and post](https://codeforgeek.com/jquery-load-get-and-post-methods/)
 <!-- BLOG-POST-LIST:END -->
+
+
+<br>
 
 
 #### Contact Me
