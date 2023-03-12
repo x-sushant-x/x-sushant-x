@@ -5,10 +5,6 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 
 <br>
 
-🚀 Visit my personal website [here](https://codewithsushant.me)
-
-<br>
-
 ### Talking about personal stuff
 <ul>
 <li>👨‍💻  I'm currently working on learning stuffs.</li>
@@ -115,7 +111,6 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 
 <br>
 
-
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Widgets: Text, Button, Row &amp; Column](https://codeforgeek.com/flutter-widgets/)
@@ -128,6 +123,7 @@ CSS           3 hrs 39 mins   ▒░░░░░░░░░░░░░░░�
 
 <br>
 
+🚀 Visit my personal portfolio. [here](https://codewithsushant.me)
 
 #### Contact Me
 <a href="mailto:sushant.dhiman9812@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
