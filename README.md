@@ -103,6 +103,7 @@ Go            3 hrs 46 mins   ▒░░░░░░░░░░░░░░░�
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Bring The Menu </a></li>
+<li><a href="https://github.com/sushant102004/Spend-Less">Spend Less </a></li>
 <li><a href="https://github.com/sushant102004/Noise-Detection-System"> Library Noise Detection System</a></li>
 <li><a href="https://github.com/sushant102004/SafeLane">Safe Lane</a></li>
 <li><a href="https://github.com/sushant102004/Ranakshetram-Secure-Coding-Challange">Ranakshetram Secure Coding Challange</a></li>
