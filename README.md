@@ -106,6 +106,7 @@ Bash          1 hr 8 mins     ░░░░░░░░░░░░░░░░�
 ### Featured Projects
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
+<li><a href="https://github.com/sushant102004/Study-Ease-Open-Source">Study Ease - Source Code</a></li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
 <li><a href="https://github.com/sushant102004/Bring-The-Menu"> Bring The Menu </a></li>
 <li><a href="https://github.com/sushant102004/Community-System-The-Internet-Folks"> Community System API</a></li>
