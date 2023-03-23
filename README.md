@@ -122,11 +122,11 @@ Bash          1 hr 9 mins     ░░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter State Management: setState](https://codeforgeek.com/flutter-state-management/)
 - [Flutter Drawer – A Step-by-Step Guide](https://codeforgeek.com/flutter-drawer/)
 - [Flutter Widgets: Text, Button, Row &amp; Column](https://codeforgeek.com/flutter-widgets/)
 - [Flutter Dialogs: A Step-by-Step Guide](https://codeforgeek.com/flutter-dialogs/)
 - [Flutter App Bar: A Step-by-Step Guide](https://codeforgeek.com/flutter-appbar/)
-- [Flutter: Getting Started Guide 2023](https://codeforgeek.com/flutter-getting-started-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
