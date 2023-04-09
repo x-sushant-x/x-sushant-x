@@ -27,6 +27,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 | September 2022 | Google's Compose Camp Facilitator                           |
 | January  2023  | IIT-Madras Hackci-dents Top 8 Finalist                      |
 | February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
+| March 2023     | 2nd Solution Challenge Submission                           |
 
 
 <br>
