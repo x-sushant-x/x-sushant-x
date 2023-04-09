@@ -132,7 +132,6 @@ Bash          1 hr 9 mins     ░░░░░░░░░░░░░░░░�
 <br>
 
 ### More Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushant102004&theme=onedark-duo)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant102004&show_icons=true&theme=transparent) 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sushant102004&theme=onedark&column=8&margin-w=12&margin-h=15)
 
