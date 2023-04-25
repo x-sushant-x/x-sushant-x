@@ -28,6 +28,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 2nd year B.Tech Computer Science Engineeri
 | January  2023  | IIT-Madras Hackci-dents Top 8 Finalist                      |
 | February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
 | March 2023     | 2nd Solution Challenge Submission                           |
+| April 2023     | Won IIT Madras Hack-Cidents Hackathon                       |
 
 
 <br>
