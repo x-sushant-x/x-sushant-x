@@ -119,11 +119,11 @@ Java          6 hrs 31 mins   ▒░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
 - [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
 - [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
 - [Flutter State Management: setState](https://codeforgeek.com/flutter-state-management/)
 - [Flutter Drawer – A Step-by-Step Guide](https://codeforgeek.com/flutter-drawer/)
-- [Flutter Widgets: Text, Button, Row &amp; Column](https://codeforgeek.com/flutter-widgets/)
 <!-- BLOG-POST-LIST:END -->
 
 
