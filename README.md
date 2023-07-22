@@ -29,6 +29,7 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 3rn year B.Tech Computer Science Engineeri
 | February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
 | March 2023     | 2nd Solution Challenge Submission                           |
 | April 2023     | Won IIT Madras Hack-Cidents Hackathon                       |
+| July 2023      | Select as Lead in Google Developer Student Clubs                       |
 
 
 <br>
