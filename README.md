@@ -1,7 +1,7 @@
 <!-- ![Header](https://raw.githubusercontent.com/sushant102004/sushant102004/main/github-header.png) -->
 
 # Welcome 
-Hello 👋, <b>I'm Sushant.</b> I'm a 3rn year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
+Hello 👋, <b>I'm Sushant.</b> I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology. 
 
 <br>
 
