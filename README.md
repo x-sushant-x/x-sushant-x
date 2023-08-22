@@ -101,6 +101,7 @@ Python            14 hrs 10 mins  ▓░░░░░░░░░░░░░░�
 
 ### Featured Projects
 <ul>
+<li><a href="https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices"> Real Time Toll Calculator Microservices</a> </li>
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
 <li><a href="https://github.com/sushant102004/Study-Ease-Open-Source">Study Ease - Source Code</a></li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
