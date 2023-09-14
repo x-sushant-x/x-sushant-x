@@ -8,7 +8,6 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 3rd year B.Tech Computer Science Engineeri
 ### Talking about personal stuff
 <ul>
 <li>👨‍💻  I'm currently working on learning stuffs.</li>
-<li>🔭 I’m currently working on building <a href="https://github.com/Cookie-Byte-Software" ><b>Cookie Byte Software</b></a>.</li>
 <li>👯 I’m looking to collaborate on <b>Open-Source</b> JavaScript (Backend) Projects and GoLang Projects.</li>
 <li>💬 Ask me about <b>Backend-Developement</b>.</li>
 <li>📝 My articles are available on <a href = "https://medium.com/@CyberBoySushant"><b>Medium</b></a> & <a href="https://codeforgeek.com/author/sushant/"><b>CodeForGeek</b></a>.</li>
