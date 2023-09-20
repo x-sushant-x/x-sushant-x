@@ -121,7 +121,10 @@ Python            14 hrs 11 mins  ▓░░░░░░░░░░░░░░�
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [I made platform for developers to monitor their coding time.](https://medium.com/@CyberBoySushant/i-made-platform-for-developers-to-monitor-their-coding-time-4447fd6c7c33?source=rss-71676b52f09c------2)
-- [Easily handle error in Node JS &amp; Express JS](https://medium.com/@CyberBoySushant/easily-handle-error-in-node-js-express-js-4a0b8a4277b4?source=rss-71676b52f09c------2)
+- [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
+- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
+- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
+- [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
 <!-- BLOG-POST-LIST:END -->
 
 
