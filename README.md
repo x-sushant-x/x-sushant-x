@@ -87,15 +87,9 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 3rd year B.Tech Computer Science Engineeri
 <li><a href="https://play.google.com/store/apps/details?id=com.sushant.studyease"> Study Ease</a> </li>
 <li><a href="https://github.com/sushant102004/Study-Ease-Open-Source">Study Ease - Source Code</a></li>
 <li><a href="https://github.com/sushant102004/Secure-Auth-System"> Secure Auth System</a></li>
-<li><a href="https://github.com/sushant102004/SyncFlow">SyncFlow</a></li>
 <li><a href="https://github.com/sushant102004/Bring-The-Menu"> Bring The Menu </a></li>
 <li><a href="https://github.com/sushant102004/Community-System-The-Internet-Folks"> Community System API</a></li>
-<li><a href="https://github.com/sushant102004/Spend-Less">Spend Less </a></li>
-<li><a href="https://github.com/sushant102004/Noise-Detection-System"> Library Noise Detection System</a></li>
 <li><a href="https://github.com/sushant102004/SafeLane">Safe Lane</a></li>
-<li><a href="https://github.com/sushant102004/Ranakshetram-Secure-Coding-Challange">Ranakshetram Secure Coding Challange</a></li>
-<li><a href="https://github.com/sushant102004/Google-Search-Resume">Google Search Resume </a></li>
-<li><a href="https://github.com/sushant102004/Blockchain-Python">Blockchain </a></li>
 </ul>
 
 <br>
