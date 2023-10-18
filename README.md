@@ -16,24 +16,6 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 3rd year B.Tech Computer Science Engineeri
 
 <br>
 
-### 🏆  Achievement
-|    Month       |         Achievement                                         |
-|----------------|-------------------------------------------------------------|
-| December 2021  | Microsoft Azure AZ-900 Certified                            |
-| July 2022      | Google Cloud Facilitator Ready                              |
-| July 2022      | First Solution Challenge Participation                      |
-| August 2022    | SIH'22 Grand Finalist                                       |
-| September 2022 | Google's Compose Camp Facilitator                           |
-| January  2023  | IIT-Madras Hackci-dents Top 8 Finalist                      |
-| February 2023  | Started Cookie Byte and published Study Ease on Play Store. |
-| March 2023     | 2nd Solution Challenge Submission                           |
-| April 2023     | Won IIT Madras Hack-Cidents Hackathon                       |
-| July 2023      | Select as Lead in Google Developer Student Clubs                       |
-
-
-<br>
-
-
 
 ### Technical Stuffs
 #### Front-End
@@ -74,9 +56,11 @@ Hello 👋, <b>I'm Sushant.</b> I'm a 3rd year B.Tech Computer Science Engineeri
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### Version Control
+#### DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <br>
 
