@@ -1,5 +1,3 @@
-# Sushant Codes - I write code
-
 ## Welcome
 
 Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology.
