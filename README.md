@@ -1,7 +1,10 @@
-## Welcome
+## Quick Stats
+<img src="https://raw.githubusercontent.com/sushant102004/sushant102004/4c524201aac76eb100677837f02442ab6b1c4125/github-metrics.svg"></img>
+
+<br>
+
 
 Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology.
-
 
 #### Talking about personal stuff
 
@@ -10,6 +13,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 * 💬 Ask me about Backend-Developement.
 * 📝 My articles are available on [Medium](https://medium.com/@CyberBoySushant) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
 * 📄 Get my resume on [LinkedIn](https://linkedin.com/in/sushant102004).
+
 
 
 #### Technical Stuffs
