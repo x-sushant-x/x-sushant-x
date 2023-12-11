@@ -2,8 +2,6 @@
 
 Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology.
 
-\
-
 
 #### Talking about personal stuff
 
@@ -12,8 +10,6 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 * 💬 Ask me about Backend-Developement.
 * 📝 My articles are available on [Medium](https://medium.com/@CyberBoySushant) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
 * 📄 Get my resume on [LinkedIn](https://linkedin.com/in/sushant102004).
-
-\
 
 
 #### Technical Stuffs
@@ -50,7 +46,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 
 #### Featured Projects
-
+* [Zorvex - Highly Scaleable & Distributed Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 * [Real Time Toll Calculator Microservices](https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices)
 * [ProgFlow - vscode]([https://github.com/orgs/Cookie-Byte-Software/repositories](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System))
 * [Study Ease](https://play.google.com/store/apps/details?id=com.sushant.studyease)
