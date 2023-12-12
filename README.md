@@ -1,5 +1,5 @@
 ## Quick Stats
-<img src="https://raw.githubusercontent.com/sushant102004/sushant102004/4c524201aac76eb100677837f02442ab6b1c4125/github-metrics.svg"></img>
+![https://raw.githubusercontent.com/sushant102004/sushant102004/4c524201aac76eb100677837f02442ab6b1c4125/github-metrics.svg](https://github.com/sushant102004/sushant102004/blob/main/github-metrics.svg)
 
 <br>
 
