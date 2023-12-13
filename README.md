@@ -3,13 +3,14 @@
 
 <br>
 
+### Introduction
 
-Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App & Back-End developer trying to convert imagination into technology.
+Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an Back-End developer trying to convert imagination into technology.
 
 #### Talking about personal stuff
 
 * 👨‍💻 I'm currently working on learning stuffs.
-* 👯 I’m looking to collaborate on Open-Source JavaScript (Backend) Projects and GoLang Projects.
+* 👯 I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Backend) Projects.
 * 💬 Ask me about Backend-Developement.
 * 📝 My articles are available on [Medium](https://medium.com/@CyberBoySushant) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
 * 📄 Get my resume on [LinkedIn](https://linkedin.com/in/sushant102004).
