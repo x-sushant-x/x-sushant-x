@@ -50,7 +50,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 
 #### Featured Projects
-* [Zorvex - Highly Scalable & Distributed Service Configuration Framework](https://github.com/sushant102004/Zorvex)
+* [Zorvex - Highly Scalable & Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 * [Real Time Toll Calculator Microservices](https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices)
 * [ProgFlow - vscode]([https://github.com/orgs/Cookie-Byte-Software/repositories](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System))
 * [Study Ease](https://play.google.com/store/apps/details?id=com.sushant.studyease)
