@@ -64,11 +64,11 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Zocket SDE Intern Interview Experience – ✅ Selected + Questions Included](https://sushantcodes.tech/my-zocket-sde-intern-interview-experience/)
-- [Real Time Toll Calculator Microservices](https://sushantcodes.tech/real-time-toll-calculator-microservices/)
+- [Technologies you should learn in 2024 – My Choice](https://sushantcodes.tech/technologies-you-should-learn-in-2024-my-choice/?utm_source=rss&utm_medium=rss&utm_campaign=technologies-you-should-learn-in-2024-my-choice)
+- [My Zocket SDE Intern Interview Experience – ✅ Selected + Questions Included](https://sushantcodes.tech/my-zocket-sde-intern-interview-experience/?utm_source=rss&utm_medium=rss&utm_campaign=my-zocket-sde-intern-interview-experience)
+- [Real Time Toll Calculator Microservices](https://sushantcodes.tech/real-time-toll-calculator-microservices/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-toll-calculator-microservices)
 - [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
 - [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
 <!-- BLOG-POST-LIST:END -->
 
 
