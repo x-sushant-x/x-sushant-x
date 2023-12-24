@@ -63,13 +63,8 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 
 #### 📔 Latest Blog Posts
-
-* [I made platform for developers to monitor their coding time.](https://medium.com/@CyberBoySushant/i-made-platform-for-developers-to-monitor-their-coding-time-4447fd6c7c33?source=rss-71676b52f09c------2)
-* [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
-* [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-* [Flutter Progress Bar: LinearProgressIndicator & CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
-* [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 #### More Stats
