@@ -12,7 +12,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 * 👨‍💻 I'm currently working on learning stuffs.
 * 👯 I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Backend) Projects.
 * 💬 Ask me about Backend-Developement.
-* 📝 My articles are available on [Medium](https://medium.com/@CyberBoySushant) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
+* 📝 My articles are available on [SushantCodes.tech](https://sushantcodes.tech) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
 * 📄 Get my resume on [LinkedIn](https://linkedin.com/in/sushant102004).
 
 <br>
@@ -59,7 +59,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 #### Featured Projects
 * [Zorvex - Highly Scalable & Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 * [Real Time Toll Calculator Microservices](https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices)
-* [ProgFlow - vscode](https://github.com/orgs/Cookie-Byte-Software/repositories](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System)
+* [ProgFlow - vscode](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System)
 * [Study Ease](https://play.google.com/store/apps/details?id=com.sushant.studyease)
 * [Study Ease - Source Code](https://github.com/sushant102004/Study-Ease-Open-Source)
 * [Secure Auth System](https://github.com/sushant102004/Secure-Auth-System)
@@ -81,11 +81,11 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 #### More Stats
 
-[![Trophies](https://camo.githubusercontent.com/0b321dba35eebd54776c052e3eaa8d03756a0ee51b40072af2b696d98cb9cb7f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73757368616e74313032303034267468656d653d6f6e656461726b26636f6c756d6e3d38266d617267696e2d773d3132266d617267696e2d683d3135)](https://camo.githubusercontent.com/0b321dba35eebd54776c052e3eaa8d03756a0ee51b40072af2b696d98cb9cb7f/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73757368616e74313032303034267468656d653d6f6e656461726b26636f6c756d6e3d38266d617267696e2d773d3132266d617267696e2d683d3135)
+<img src="https://github-profile-trophy.vercel.app/?username=sushant102004&theme=dracula"/>
 
 🚀 Visit my personal portfolio. [here](https://sushantcodes.tech/)
 
 **Contact Me**
-<a href="mailto:sushant.dhiman9812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<a href="mailto:sushant.dhiman9812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sushant102004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
