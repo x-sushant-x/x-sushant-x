@@ -71,7 +71,7 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [You are search Internship / Job the wrong way and why students fails](https://sushantcodes.tech/you-are-search-internship-job-the-wrong-way-and-why-students-fails/?utm_source=rss&utm_medium=rss&utm_campaign=you-are-search-internship-job-the-wrong-way-and-why-students-fails)
+- [You are searching Internship / Job the wrong way and why students fail](https://sushantcodes.tech/you-are-search-internship-job-the-wrong-way-and-why-students-fails/?utm_source=rss&utm_medium=rss&utm_campaign=you-are-search-internship-job-the-wrong-way-and-why-students-fails)
 - [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/progflow-coding-monitoring-system/?utm_source=rss&utm_medium=rss&utm_campaign=progflow-coding-monitoring-system)
 - [Zorvex](https://sushantcodes.tech/zorvex/?utm_source=rss&utm_medium=rss&utm_campaign=zorvex)
 - [Technologies to learn in 2024 – My Choice](https://sushantcodes.tech/technologies-to-learn-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=technologies-to-learn-in-2024)
