@@ -71,11 +71,11 @@ Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Stud
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
-- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
-- [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
-- [Flutter State Management: setState](https://codeforgeek.com/flutter-state-management/)
+- [You are searching Internship / Job the wrong way and why students fail](https://sushantcodes.tech/you-are-search-internship-job-the-wrong-way-and-why-students-fails/?utm_source=rss&utm_medium=rss&utm_campaign=you-are-search-internship-job-the-wrong-way-and-why-students-fails)
+- [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/progflow-coding-monitoring-system/?utm_source=rss&utm_medium=rss&utm_campaign=progflow-coding-monitoring-system)
+- [Zorvex](https://sushantcodes.tech/zorvex/?utm_source=rss&utm_medium=rss&utm_campaign=zorvex)
+- [Technologies to learn in 2024 – My Choice](https://sushantcodes.tech/technologies-to-learn-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=technologies-to-learn-in-2024)
+- [My Zocket SDE Intern Interview Experience – ✅ Selected + Questions Included](https://sushantcodes.tech/my-zocket-sde-intern-interview-experience/?utm_source=rss&utm_medium=rss&utm_campaign=my-zocket-sde-intern-interview-experience)
 <!-- BLOG-POST-LIST:END -->
 
 
