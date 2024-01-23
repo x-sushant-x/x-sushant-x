@@ -1,11 +1,9 @@
-## Quick Stats
-![https://raw.githubusercontent.com/sushant102004/sushant102004/4c524201aac76eb100677837f02442ab6b1c4125/github-metrics.svg](https://github.com/sushant102004/sushant102004/blob/main/github-metrics.svg)
-
-<br>
-
 ### Introduction
 
-Hello 👋, I'm Sushant. I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an Back-End developer trying to convert imagination into technology.
+Hello 👋, I'm Sushant. I'm a 3rd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Back-End developer trying to convert imagination into technology. 
+
+My primary focus is on backend engineering, and I have a deep understanding of Golang, JavaScript, TypeScript, and NodeJS. I am eager to bring my skills and experience to a new challenge as a backend engineer. I have worked with and can work with different technologies to implement scaleable and robust backend solutions. I'm also very interested into distributed systems that's why I'm also learning them.
+
 
 #### Talking about personal stuff
 
