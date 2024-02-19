@@ -23,7 +23,7 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 * Go (Golang) | JavaScript | TypeScript | GDSCript | C++ | HTML | CSS 
 
 
-**🛠️ Libraries & Frameworks**
+**🛠️ Libraries & Frameworks & Tools**
 
 * Node.js | Express.js | Flutter | GraphQL | ORM | React | Godot
 
