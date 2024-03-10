@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Single Responsibility Principle – SOLID](https://98.70.72.197/single-responsibility-principle-solid/)
-- [GDSC Lead Interview Prep: Process &amp; Tips from a Former Lead](https://98.70.72.197/gdsc-lead-interview-prep-process-tips-from-a-former-lead/)
-- [Problem we face while learning to code and it’s solution.](https://98.70.72.197/problem-we-face-while-learning-to-code-and-its-solution/)
+- [Single Responsibility Principle in Golang – SOLID](https://sushantcodes.tech/single-responsibility-principle-solid/?utm_source=rss&utm_medium=rss&utm_campaign=single-responsibility-principle-solid)
+- [GDSC Lead Interview Prep: Process &amp; Tips from a Former Lead](https://sushantcodes.tech/gdsc-lead-interview-prep-process-tips-from-a-former-lead/?utm_source=rss&utm_medium=rss&utm_campaign=gdsc-lead-interview-prep-process-tips-from-a-former-lead)
+- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/problem-we-face-while-learning-to-code-and-its-solution/?utm_source=rss&utm_medium=rss&utm_campaign=problem-we-face-while-learning-to-code-and-its-solution)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [You are searching Internship / Job the wrong way and why students fail](https://98.70.72.197/you-are-search-internship-job-the-wrong-way-and-why-students-fails/)
+- [You are searching Internship / Job the wrong way and why students fail](https://sushantcodes.tech/you-are-search-internship-job-the-wrong-way-and-why-students-fails/?utm_source=rss&utm_medium=rss&utm_campaign=you-are-search-internship-job-the-wrong-way-and-why-students-fails)
 <!-- BLOG-POST-LIST:END -->
 
 
