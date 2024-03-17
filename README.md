@@ -20,7 +20,7 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 **👨‍💻 Programming Languages**
 
-* Go (Golang) | JavaScript | TypeScript | GDSCript | C++ | HTML | CSS 
+* Go (Golang) | JavaScript | TypeScript | GDSCript | C++ 
 
 
 **🛠️ Libraries & Frameworks & Tools**
