@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Single Responsibility Principle in Golang – SOLID](https://sushantcodes.tech/single-responsibility-principle-solid/?utm_source=rss&utm_medium=rss&utm_campaign=single-responsibility-principle-solid)
+- [GDSC Lead Interview: Process &amp; Tips from former lead](https://sushantcodes.tech/gdsc-lead-interview-prep-process-tips-from-a-former-lead/?utm_source=rss&utm_medium=rss&utm_campaign=gdsc-lead-interview-prep-process-tips-from-a-former-lead)
+- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/problem-we-face-while-learning-to-code-and-its-solution/?utm_source=rss&utm_medium=rss&utm_campaign=problem-we-face-while-learning-to-code-and-its-solution)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
-- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
-- [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
+- [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/progflow-coding-monitoring-system/?utm_source=rss&utm_medium=rss&utm_campaign=progflow-coding-monitoring-system)
 <!-- BLOG-POST-LIST:END -->
 
 
