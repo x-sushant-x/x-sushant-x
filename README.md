@@ -81,7 +81,7 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 <img src="https://github-profile-trophy.vercel.app/?username=sushant102004&theme=dracula"/>
 
-🚀 Visit my personal portfolio. [here](https://sushantcodes.tech/)
+🚀 Visit my personal portfolio. [here](https://sushantcodes.tech)
 
 **Contact Me**
 
