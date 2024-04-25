@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://sushantcodes.tech/2024/04/25/hello-world/)
+- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/2024/02/05/problem-we-face-while-learning-to-code-and-its-solution/)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
-- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
+- [You are searching Internship / Job the wrong way and why students fail](https://sushantcodes.tech/2024/01/03/you-are-search-internship-job-the-wrong-way-and-why-students-fails/)
+- [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/2023/12/26/progflow-coding-monitoring-system/)
+- [Zorvex](https://sushantcodes.tech/2023/12/26/zorvex/)
 <!-- BLOG-POST-LIST:END -->
 
 
