@@ -71,9 +71,9 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 <!-- BLOG-POST-LIST:START -->
 - [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/2024/02/05/problem-we-face-while-learning-to-code-and-its-solution/)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [You are searching Internship / Job the wrong way and why students fail](https://sushantcodes.tech/2024/01/03/you-are-search-internship-job-the-wrong-way-and-why-students-fails/)
 - [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/2023/12/26/progflow-coding-monitoring-system/)
 - [Zorvex](https://sushantcodes.tech/2023/12/26/zorvex/)
+- [Technologies to learn in 2024 – My Choice](https://sushantcodes.tech/2023/12/24/technologies-to-learn-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
