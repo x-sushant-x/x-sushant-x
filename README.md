@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Resume for internships? + FREE TEMPLATE](https://sushantcodes.tech/2024/04/30/how-to-make-a-resume-for-internships-free-template/)
 - [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/2024/02/05/problem-we-face-while-learning-to-code-and-its-solution/)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
 - [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/2023/12/26/progflow-coding-monitoring-system/)
 - [Zorvex](https://sushantcodes.tech/2023/12/26/zorvex/)
-- [Technologies to learn in 2024 – My Choice](https://sushantcodes.tech/2023/12/24/technologies-to-learn-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
