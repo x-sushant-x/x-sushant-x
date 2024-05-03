@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make a Resume for internships? + FREE TEMPLATE](https://sushantcodes.tech/2024/04/30/how-to-make-a-resume-for-internships-free-template/)
-- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/2024/02/05/problem-we-face-while-learning-to-code-and-its-solution/)
+- [gRPC Microservices in Go with Hexagonal Architecture – Part 1](https://sushantcodes.tech/grpc-microservices-in-go-with-hexagonal-architecture-part-1/)
+- [How to make a Resume for internships? + FREE TEMPLATE](https://sushantcodes.tech/how-to-make-a-resume-for-internships-free-template/)
+- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/problem-we-face-while-learning-to-code-and-its-solution/)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/2023/12/26/progflow-coding-monitoring-system/)
-- [Zorvex](https://sushantcodes.tech/2023/12/26/zorvex/)
+- [ProgFlow – Coding Monitoring System](https://sushantcodes.tech/progflow-coding-monitoring-system/)
 <!-- BLOG-POST-LIST:END -->
 
 
