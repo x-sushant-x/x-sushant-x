@@ -69,11 +69,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to VS Code Customization 2024 – Extension, Themes, Settings, Productivity](https://sushantcodes.tech/vs-code-customization-2024-extensions-themes-settings/)
+- [gRPC Microservices in Go with Hexagonal Architecture – Part 1](https://sushantcodes.tech/grpc-microservices-in-go-with-hexagonal-architecture-part-1/)
+- [How to make a Resume for internships? + FREE TEMPLATE](https://sushantcodes.tech/how-to-make-a-resume-for-internships-free-template/)
+- [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/problem-we-face-while-learning-to-code-and-its-solution/)
 - [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [Flutter Scaffold Class: A Step-by-Step Implementation](https://codeforgeek.com/flutter-scaffold-class/)
-- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
-- [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
 <!-- BLOG-POST-LIST:END -->
 
 
