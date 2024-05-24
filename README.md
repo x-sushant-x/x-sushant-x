@@ -1,13 +1,12 @@
 ### Introduction
 
-Hello 👋, I'm Sushant. I'm a 3rd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Back-End developer trying to convert imagination into technology. 
+Hello 👋, I'm Sushant. I'm a 4th-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Back-End developer trying to convert imagination into technology. 
 
-My primary focus is on backend engineering, and I have a deep understanding of Golang, JavaScript, TypeScript, and NodeJS. I am eager to bring my skills and experience to a new challenge as a backend engineer. I have worked with and can work with different technologies to implement scaleable and robust backend solutions. I'm also very interested into distributed systems that's why I'm also learning them.
-
+My primary focus is on backend engineering, and I have a deep understanding of Golang, JavaScript, TypeScript, and NodeJS. I am eager to bring my skills and experience to a new challenge as a backend engineer. I have worked with and can work with different technologies.
 
 #### Talking about personal stuff
 
-* 👨‍💻 I'm currently working on learning stuffs.
+* 👨‍💻 I'm currently working on learning stuff.
 * 👯 I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Backend) Projects.
 * 💬 Ask me about Backend-Developement.
 * 📝 My articles are available on [SushantCodes.tech](https://sushantcodes.tech) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
