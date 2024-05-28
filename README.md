@@ -9,7 +9,7 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 * 👨‍💻 I'm currently working on learning stuff.
 * 👯 I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Backend) Projects.
 * 💬 Ask me about Backend-Developement.
-* 📝 My articles are available on [SushantCodes.tech](https://sushantcodes.tech) & [CodeForGeek](https://codeforgeek.com/author/sushant/).
+* 📝 My articles are available on [SushantCodes.tech](https://sushantcodes.tech) & [CodeForGeek](https://codeforgeek.com/author/sushant/)
 * 📄 Get my resume [Here](https://docs.google.com/document/d/1c10YlVtdOqNsB2W9w_m96kUDq5BvmENQ_Q0Vk89BLbo/edit?usp=sharing).
 
 <br>
