@@ -68,11 +68,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [rtCamp Intern Interview Questions 2024](https://sushantcodes.tech/rtcamp-intern-interview-questions-2024/)
 - [How to VS Code Customization 2024 – Extension, Themes, Settings, Productivity](https://sushantcodes.tech/vs-code-customization-2024-extensions-themes-settings/)
 - [gRPC Microservices in Go with Hexagonal Architecture – Part 1](https://sushantcodes.tech/grpc-microservices-in-go-with-hexagonal-architecture-part-1/)
 - [How to make a Resume for internships? + FREE TEMPLATE](https://sushantcodes.tech/how-to-make-a-resume-for-internships-free-template/)
 - [Problem we face while learning to code and it’s solution.](https://sushantcodes.tech/problem-we-face-while-learning-to-code-and-its-solution/)
+- [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 
