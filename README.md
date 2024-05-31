@@ -4,7 +4,7 @@ Hello 👋, I'm Sushant. I'm a 4th-year B.Tech Computer Science Engineering Stud
 
 My primary focus is on backend engineering, and I have a deep understanding of Golang, JavaScript, TypeScript, and NodeJS. I am eager to bring my skills and experience to a new challenge as a backend engineer. I have worked with and can work with different technologies.
 
-#### Talking about personal stuff
+#### Look at this
 
 * 👨‍💻 I'm currently working on learning stuff.
 * 👯 I’m looking to collaborate on Open-Source GoLang Projects and JavaScript (Backend) Projects.
