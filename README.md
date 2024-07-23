@@ -76,9 +76,12 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 <!-- BLOG-POST-LIST:END -->
 
 
-#### More Stats
+#### Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=sushant102004&theme=dracula"/>
+
+#### Snake 🐍
+<img src="https://raw.githubusercontent.com/sushant102004/sushant102004/output/snake.svg" alt="Snake animation" />
 
 🚀 Visit my personal portfolio. [here](https://sushantcodes.tech)
 
