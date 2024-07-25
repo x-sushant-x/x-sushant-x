@@ -68,11 +68,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
 - [Easy WordPress Installation 2024](https://sushantcodes.tech/easy-wordpress-installation-2024/)
 - [Meaningful Naming – Clean Code in Golang EP 1](https://sushantcodes.tech/meaningful-naming-clean-code-in-golang-ep-1/)
 - [rtCamp Intern Interview Questions 2024](https://sushantcodes.tech/rtcamp-intern-interview-questions-2024/)
 - [How to VS Code Customization 2024 – Extension, Themes, Settings, Productivity](https://sushantcodes.tech/vs-code-customization-2024-extensions-themes-settings/)
-- [gRPC Microservices in Go with Hexagonal Architecture – Part 1](https://sushantcodes.tech/grpc-microservices-in-go-with-hexagonal-architecture-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 
