@@ -75,6 +75,9 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 - [rtCamp Intern Interview Questions 2024](https://sushantcodes.tech/rtcamp-intern-interview-questions-2024/)
 <!-- BLOG-POST-LIST:END -->
 
+#### More Statistics
+
+<img src="https://github.com/x-sushant-x/x-sushant-x/blob/main/github-metrics.svg"/>
 
 #### Trophies
 
