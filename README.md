@@ -54,8 +54,10 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 <br>
 
 #### Featured Projects
-* [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
+
+* [Rate Shield - Configurable Rate Limiter](https://github.com/x-sushant-x/Rate-Shield)
 * [Real Time Toll Calculator Microservices](https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices)
+* [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 * [ProgFlow - vscode](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System)
 * [Study Ease](https://play.google.com/store/apps/details?id=com.sushant.studyease)
 * [Study Ease - Source Code](https://github.com/sushant102004/Study-Ease-Open-Source)
