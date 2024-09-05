@@ -48,7 +48,7 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 **🌐 DevOps**
 
-* Linux | Docker | Jenkins
+* Linux | Docker
 
 
 <br>
