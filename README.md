@@ -70,11 +70,11 @@ My primary focus is on backend engineering, and I have a deep understanding of G
 
 #### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make GitHub profile attractive in 2024](https://sushantcodes.tech/how-to-make-github-profile-attractive-in-2024/)
 - [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
-- [Node.js Modules: Core, Local and Third Party](https://codeforgeek.com/nodejs-modules/)
-- [Create a Horizontal List in Flutter](https://codeforgeek.com/horizontal-list-in-flutter/)
-- [Flutter Progress Bar: LinearProgressIndicator &amp; CircularProgressIndicator](https://codeforgeek.com/flutter-progress-bar/)
-- [How to Create a TabBar in Flutter](https://codeforgeek.com/flutter-tabbar/)
+- [Easy WordPress Installation 2024](https://sushantcodes.tech/easy-wordpress-installation-2024/)
+- [Meaningful Naming – Clean Code in Golang EP 1](https://sushantcodes.tech/meaningful-naming-clean-code-in-golang-ep-1/)
+- [rtCamp Intern Interview Questions 2024](https://sushantcodes.tech/rtcamp-intern-interview-questions-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 #### More Statistics
