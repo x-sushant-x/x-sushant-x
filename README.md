@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello 👋, I'm Sushant. I'm a 4th-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Back-End developer trying to convert imagination into technology. 
+Hello 👋, I'm Sushant. I'm a 4th-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University.
 
 My primary focus is on backend engineering, and I have a deep understanding of Golang, JavaScript, TypeScript, and NodeJS. I am eager to bring my skills and experience to a new challenge as a backend engineer. I have worked with and can work with different technologies.
 
