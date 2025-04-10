@@ -19,11 +19,12 @@ My primary focus is on backend engineering, and I can work with Golang, Java, Sp
 
 <br>
 
-#### Featured Project
+#### Noteable Project
 
 * [Rate Shield - Configurable Rate Limiter](https://github.com/x-sushant-x/Rate-Shield)
 * [Real Time Toll Calculator Microservices](https://github.com/sushant102004/Real-Time-Toll-Calculator-Microservices)
 * [ProgFlow - vscode](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System)
+* [IntelliSearch - Web Crawler + Search Engine](https://github.com/x-sushant-x/IntelliSearch)
 
 <br>
 
