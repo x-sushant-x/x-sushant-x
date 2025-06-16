@@ -26,6 +26,7 @@ My primary focus is on backend engineering, and I can work with Golang, Java, Sp
 * [ProgFlow - vscode](https://github.com/sushant102004/ProgFlow-Coding-Monitoring-System)
 * [Zorvex - Simple Service Discovery](https://github.com/x-sushant-x/Zorvex)
 * [IntelliSearch - Web Crawler + Search Engine](https://github.com/x-sushant-x/IntelliSearch)
+* [Balancer - Simple Implementation of Load Balancer](https://github.com/x-sushant-x/Balancer)
 
 <br>
 
