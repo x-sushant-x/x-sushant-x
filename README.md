@@ -33,10 +33,6 @@ My primary focus is on backend engineering, and I can work with Golang, Java, Sp
 
 #### 📔 I write blog on [Beyond The Syntax](https://beyondthesyntax.substack.com/)
 
-##### Latest Blog Posts
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
-
 <br>
 
 **Contact Me:**
