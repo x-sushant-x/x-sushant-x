@@ -28,6 +28,7 @@ My primary focus is on backend engineering, and I can work with Golang, Java, Sp
 * [IntelliSearch - Web Crawler + Search Engine](https://github.com/x-sushant-x/IntelliSearch)
 * [Balancer - Simple Implementation of Load Balancer](https://github.com/x-sushant-x/Balancer)
 * [Threaded File Compressor With Memory Control](https://github.com/x-sushant-x/Parallel_File_Compressor)
+* [Phantom - Distributed Key Value Store](https://github.com/x-sushant-x/Phantom)
 
 <br>
 
