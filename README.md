@@ -9,7 +9,7 @@ My primary focus is on backend engineering, and I can work with Golang, Java, Sp
 
 | Category                      | Technologies |
 |--------------------------------|-------------|
-| 🖥️ **Languages**              | Go (Golang), Java, JavaScript, TypeScript, C++ |
+| 🖥️ **Languages**              | Go (Golang), Java, JavaScript, TypeScript, C |
 | 🚀 **Frameworks & Libraries**  | Spring Boot, Node.js, Express.js, Gin, GoFiber |
 | 📡 **Messaging & Streaming**   | Kafka |
 | ☁️ **Cloud & DevOps**         | AWS, Lambda, Docker, Linux |
