@@ -1,4 +1,4 @@
-Backend engineer with a passion for improving every day. In my free time I study low level systems. I occasionally write a [blog](https://sushantdhiman.dev).
+Backend engineer with a passion for improving every day. In my free time I study low level systems. I occasionally write [blog](https://sushantdhiman.dev).
 
 
 **Contact Me:**
