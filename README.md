@@ -1,11 +1,12 @@
 Backend engineer with a passion for improving every day. Here you will find things that I've built because I found them interesting.
 In my free time I study low level systems. I occasionally write [blog](https://sushantdhiman.dev).
 
-#### Some Stuff I've Made
+#### Some Projects I've Made
 * [Network LB](https://github.com/x-sushant-x/Network-Load-Balancer) - Layer 4 TCP Proxy & Load Balancer written in pure C using non-blocking sockets and kernel event polling.
 * [WAL](https://github.com/x-sushant-x/WAL) - A Write Ahead Log system written from scratch.
 * [Rate Shield](https://github.com/x-sushant-x/Rate-Shield) - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules.
 * [JSON Parser](https://github.com/x-sushant-x/JSON-Parser) - A JSON Parser written in GoLang. Nothing Special. Just a simple exercise.
+* [Low Level](https://github.com/x-sushant-x/Low-Level) - Some stuff related to my Low Level learning. Including x86 Assembly & Nand 2 Tetris.
 
 **Contact Me:**
 
