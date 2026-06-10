@@ -10,9 +10,10 @@ In my free time I study low level systems. I occasionally write [blog](https://s
 | [JSON Parser](https://github.com/x-sushant-x/JSON-Parser) | A JSON parser written in Go as a learning exercise. |
 | [Expresso](https://github.com/Zomato/espresso) | Contributed to Zomato's Espresso, a high-performance PDF generation and digital signing solution. |
 | [Low Level](https://github.com/x-sushant-x/Low-Level) | Collection of low-level programming experiments and learning projects, including x86 Assembly and Nand2Tetris. |
-| [Tael](https://github.com/x-sushant-x/Tael) | An alternative to the `tail` command is being built in C |
-| [Crawl](https://github.com/x-sushant-x/IntelliCrawl) | A very simple web crawler |
-| [C Hash](https://github.com/x-sushant-x/Consistent-Hashing) | An implementation of Consistent Hashing |
+| [Tael](https://github.com/x-sushant-x/Tael) | An alternative to the `tail` command is being built in C. |
+| [Crawl](https://github.com/x-sushant-x/IntelliCrawl) | A very simple web crawler. |
+| [C Hash](https://github.com/x-sushant-x/Consistent-Hashing) | An implementation of Consistent Hashing. |
+| [Hash Table](https://github.com/x-sushant-x/Experimentations/tree/main/Hashtable) | An implementation of Hash Table from scratch in pure C.|
 
 **Contact Me:**
 
