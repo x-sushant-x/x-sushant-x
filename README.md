@@ -7,6 +7,7 @@ In my free time I study low level systems. I occasionally write [blog](https://s
 | [Mini Kafka](https://github.com/x-sushant-x/miniKafka) | Building a mini version of Kafka from scratch to understand how it works internally. |
 | [Network LB](https://github.com/x-sushant-x/Network-Load-Balancer) | Layer 4 TCP proxy and load balancer written in pure C using non-blocking sockets and kernel event polling. |
 | [WAL](https://github.com/x-sushant-x/WAL) | A Write-Ahead Log (WAL) system implemented from scratch. |
+| [Raft](https://github.com/x-sushant-x/raft) | A Raft based leader election system for consensus on Distributed Systems |
 | [Rate Shield](https://github.com/x-sushant-x/Rate-Shield) | A configurable rate limiter capable of applying independent rate-limiting rules to individual APIs. |
 | [JSON Parser](https://github.com/x-sushant-x/JSON-Parser) | A JSON parser written in Go as a learning exercise. |
 | [Expresso](https://github.com/Zomato/espresso) | Contributed to Zomato's Espresso, a high-performance PDF generation and digital signing solution. |
