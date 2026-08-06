@@ -1,5 +1,4 @@
-Backend engineer with a passion for improving every day. Here you will find things that I've built because I found them interesting.
-In my free time I study low level systems. I occasionally write [blog](https://sushantdhiman.dev).
+I'm a Backend Engineer. Here you will find things that I've built because I found them interesting. Most of my projects are built from scratch to understand how they work—not just how to use them. I occasionally write [blog](https://sushantdhiman.dev).
 
 #### Some Projects I've Made
 | Project | Description |
