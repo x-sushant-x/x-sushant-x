@@ -4,7 +4,7 @@ In my free time I study low level systems. I occasionally write [blog](https://s
 #### Some Projects I've Made
 | Project | Description |
 |----------|-------------|
-| [Mini Kafka](https://github.com/x-sushant-x/miniKafka) | Building a mini version of Kafka from scratch to understand how it works internally. |
+| [Mini Kafka](https://github.com/x-sushant-x/miniKafka) | Built a mini version of Kafka from scratch to understand how it works internally. |
 | [Network LB](https://github.com/x-sushant-x/Network-Load-Balancer) | Layer 4 TCP proxy and load balancer written in pure C using non-blocking sockets and kernel event polling. |
 | [WAL](https://github.com/x-sushant-x/WAL) | A Write-Ahead Log (WAL) system implemented from scratch. |
 | [Raft](https://github.com/x-sushant-x/raft) | A Raft based leader election system for consensus on Distributed Systems |
