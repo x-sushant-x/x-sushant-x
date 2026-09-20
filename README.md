@@ -4,7 +4,7 @@ I'm a Backend Engineer. Here you will find things that I've built because I foun
 | Project | Description |
 |----------|-------------|
 | [Mini Kafka](https://github.com/x-sushant-x/miniKafka) | A distributed event streaming platform inspired by Kafka from scratch to understand how it works internally. |
-| [Network LB](https://github.com/x-sushant-x/Network-Load-Balancer) | Layer 4 TCP proxy and load balancer written in pure C using non-blocking sockets and kernel event polling. |
+| [Network LB](https://github.com/x-sushant-x/Network-Load-Balancer) | Layer 4 TCP load balancer written in pure C using non-blocking sockets and kernel event polling. |
 | [Raft](https://github.com/x-sushant-x/raft) | A Raft based leader election system for consensus on Distributed Systems |
 | [WAL](https://github.com/x-sushant-x/WAL) | A Write-Ahead Log (WAL) system implemented from scratch. |
 | [Rate Shield](https://github.com/x-sushant-x/Rate-Shield) | A configurable rate limiter capable of applying independent rate-limiting rules to individual APIs. |
