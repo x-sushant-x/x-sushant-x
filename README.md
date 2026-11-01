@@ -20,7 +20,11 @@ I'm a Backend Engineer. Here you will find things that I've built because I foun
 
 #### My Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - [How Data Is Replicated In Distributed Systems | Raft From Scratch - Part 2](https://sushantdhiman.dev/blog/raft-2/)
+ - [How Database Actually Store Data on Disk](https://sushantdhiman.dev/blog/how-database-actually-store-data-on-disk/)
+ - [Contact](https://sushantdhiman.dev/page/contact/)
+ - [Disclaimer](https://sushantdhiman.dev/page/disclaimer/)
+ - [Cookie](https://sushantdhiman.dev/page/cookie/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
