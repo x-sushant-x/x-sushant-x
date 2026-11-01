@@ -16,6 +16,14 @@ I'm a Backend Engineer. Here you will find things that I've built because I foun
 | [C Hash](https://github.com/x-sushant-x/Consistent-Hashing) | An implementation of Consistent Hashing. |
 | [Hash Table](https://github.com/x-sushant-x/Experimentations/tree/main/Hashtable) | An implementation of Hash Table from scratch in pure C.|
 
+<br>
+
+#### My Recent Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 **Contact Me:**
 
 <a href="mailto:sushant.dhiman9812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
