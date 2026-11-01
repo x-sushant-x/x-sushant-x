@@ -1,18 +1,25 @@
 name: Readme Update Blog
+
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
     name: Update latest blogs
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      - name: Fetch posts
-        uses: armingli/readme-update-actions@v1.1.1
+        uses: actions/checkout@v4
+
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          rss_list: "https://sushantdhiman.dev/index.xml" # required
-          max_post: 5  # optional, default 5 
+          feed_list: "https://sushantdhiman.dev/index.xml"
+          max_post_count: 5
+          template: "$newline - [$title]($url)"
