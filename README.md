@@ -20,11 +20,11 @@ I'm a Backend Engineer. Here you will find things that I've built because I foun
 
 #### My Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+ - [Database Indexing Isn&#39;t Magic. Understand It From Scratch](https://sushantdhiman.dev/blog/database-index-from-scratch/)
  - [How Data Is Replicated In Distributed Systems | Raft From Scratch - Part 2](https://sushantdhiman.dev/blog/raft-2/)
  - [How Database Actually Store Data on Disk](https://sushantdhiman.dev/blog/how-database-actually-store-data-on-disk/)
  - [How Data Is Replicated In Distributed Systems | Raft From Scratch - Part 1](https://sushantdhiman.dev/blog/raft/)
- - [Built a TCP Load Balancer in C to understand how it actually works.](https://sushantdhiman.dev/blog/built-a-network-load-balancer-in-c-to-understand-how-it-actually-works-2/)
- - [Kafka Fundamentals - Guide to Distributed Messaging](https://sushantdhiman.dev/blog/kafka-fundamentals-guide-to-distributed-messaging/)<!-- BLOG-POST-LIST:END -->
+ - [Built a TCP Load Balancer in C to understand how it actually works.](https://sushantdhiman.dev/blog/built-a-network-load-balancer-in-c-to-understand-how-it-actually-works-2/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
