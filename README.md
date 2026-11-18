@@ -24,7 +24,7 @@ I'm a Backend Engineer. Here you will find things that I've built because I foun
  - [How Data Is Replicated In Distributed Systems | Raft From Scratch - Part 2](https://sushantdhiman.dev/blog/raft-2/)
  - [How Database Actually Store Data on Disk](https://sushantdhiman.dev/blog/how-database-actually-store-data-on-disk/)
  - [How Data Is Replicated In Distributed Systems | Raft From Scratch - Part 1](https://sushantdhiman.dev/blog/raft/)
- - [Built a TCP Load Balancer in C to understand how it actually works.](https://sushantdhiman.dev/blog/built-a-network-load-balancer-in-c-to-understand-how-it-actually-works-2/)<!-- BLOG-POST-LIST:END -->
+ - [How Load Balancers Work Without Creating Thousands Of Threads](https://sushantdhiman.dev/blog/built-a-network-load-balancer-in-c-to-understand-how-it-actually-works-2/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
